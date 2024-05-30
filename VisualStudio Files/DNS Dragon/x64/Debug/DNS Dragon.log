@@ -1,0 +1,6 @@
+﻿  DNS Dragon.cpp
+C:\Users\Dexter\source\repos\DNS Dragon\DNS Dragon\DNS Dragon.cpp(55,22): warning C4309: '=': truncation of constant value
+C:\Users\Dexter\source\repos\DNS Dragon\DNS Dragon\DNS Dragon.cpp(56,22): warning C4309: '=': truncation of constant value
+C:\Users\Dexter\source\repos\DNS Dragon\DNS Dragon\DNS Dragon.cpp(69,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dexter\source\repos\DNS Dragon\DNS Dragon\DNS Dragon.cpp(73,27): warning C4309: '=': truncation of constant value
+  DNS Dragon.vcxproj -> C:\Users\Dexter\source\repos\DNS Dragon\x64\Debug\DNS Dragon.exe
